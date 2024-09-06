@@ -1,0 +1,2 @@
+# Automated-Detection-of-Spacecraft-Maneuvers-through-Orbital-Data-Analysis
+The main objective of this task is to develop a method that automatically detects spacecraft maneuvers (such as engine burns or orientation adjustments) using orbital data. Specifically, the method should rely on the Semi-Major Axis (SMA) variation over time to identify potential maneuvers, without using explicit maneuver data.
